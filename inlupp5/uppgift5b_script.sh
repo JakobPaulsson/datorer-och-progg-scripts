@@ -1,3 +1,8 @@
+if [ $# -eq 0 ]
+  then
+    echo "Usage: $0 fil_att_testa.cpp"
+    exit 0
+fi
 if [ ! -f "$1" ]; then
     echo "Filen $1 finns ej."
     exit 0
