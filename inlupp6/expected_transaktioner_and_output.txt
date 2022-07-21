@@ -1,0 +1,26 @@
+Antal transaktioner = 11
+Datum   Typ     Namn    Belopp  Antal och lista av kompisar
+190615  transp  Eva     6000    5  Bosse   Kristin Paul    Torsten Stina   
+190721  mat     Eva     300     2  Bosse   Kristin 
+190721  mat     Paul    400     2  Torsten Stina   
+190721  transp  Bosse   5000    3  Eva     Kristin Paul    
+190721  transp  Stina   5000    1  Torsten 
+190722  boende  Kristin 200     1  Eva     
+190722  mat     Eva     300     2  Kristin Bosse   
+190723  mat     Torsten 300     2  Paul    Stina   
+190724  mat     Paul    200     1  Stina   
+190725  transp  Eva     600     3  Bosse   Kristin Paul    
+190721  mat     Eva     5000    2  Bosse   Stina   
+
+* Antal transaktioner = 10
+* Den totala kostnaden för resan var 23300
+* Bosse är skyldig 3016.67
+* Eva ligger ute med 9183.33
+
+* Nu skapar vi en personarray och reder ut det hela!
+  Eva ligger ute med 9183.33 och är skyldig 1350. Skall ha 7833.33 från potten!
+  Paul ligger ute med 366.667 och är skyldig 2500. Skall lägga 2133.33 till potten!
+  Bosse ligger ute med 3750 och är skyldig 3016.67. Skall ha 733.333 från potten!
+  Stina ligger ute med 2500 och är skyldig 3000. Skall lägga 500 till potten!
+  Kristin ligger ute med 100 och är skyldig 2600. Skall lägga 2500 till potten!
+  Torsten ligger ute med 200 och är skyldig 3633.33. Skall lägga 3433.33 till potten!
